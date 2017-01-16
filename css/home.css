@@ -1,0 +1,15 @@
+
+  /*You can simply style it like the following to make it fill the entire viewport:
+*/
+
+  #world {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background: linear-gradient(#e4e0ba, #f7d9aa);
+  }
+
+  body {
+    margin: 0;
+  }
